@@ -68,9 +68,13 @@ Now no need to order components separately for you PCB and get free from stress 
 
 
 Follow the simple step to get this PCB board.
+
 1 - Download the circuit board Gerber file: [https://oshwlab.com/sharmaz747/multipurpose-pcb](https://oshwlab.com/ctbully/wifi-shield-prototype)
+
 2 - Create an account using the link below: JLCPCB.com/PCW
+
 3 - visit JLCPCB.com/PCW Add the Gerber file and place the order.
+
 
 For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
